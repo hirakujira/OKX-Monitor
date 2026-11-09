@@ -1,0 +1,31 @@
+{
+  "fill" : {
+    "solid" : "extended-srgb:0.01800,0.01800,0.01800,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "image-name" : "01-Window.svg",
+          "name" : "01-Window"
+        },
+        {
+          "image-name" : "02-Signal.svg",
+          "name" : "02-Signal"
+        }
+      ],
+      "name" : "Monitor Window",
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0
+      },
+      "translucency" : {
+        "enabled" : false,
+        "value" : 0
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "squares" : "shared"
+  }
+}
